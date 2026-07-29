@@ -37,5 +37,4 @@ clearDisplay(): Resets the display screen to empty when the 'C' button is presse
 
 calculate(): Uses JavaScript’s built-in eval() function to parse the string expression into a mathematical result and update the display.
 
-📸 Preview
-Link: https://guical.netlify.app
+
