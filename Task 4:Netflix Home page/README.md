@@ -45,7 +45,5 @@ Clean UI Structuring
 🔍 Search Movies Feature
 🙌 Author
 
-Made with ❤️ by Himesh Kumar
-LINK : photonet.netlify.app
 
 If you like this project, give it a ⭐ on GitHub.
