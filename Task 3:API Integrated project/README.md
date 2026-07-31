@@ -1,4 +1,4 @@
-# 📝 Alfido Tech — Modern Glassy To-Do List Application
+# Modern Glassy To-Do List Application
 
 A **modern, glassy, and feature-rich To-Do List app** built using **HTML, CSS, and JavaScript**.  
 This project combines minimal UI design with advanced interactivity — perfect for practicing **frontend development** skills at Alfido Tech.
@@ -40,11 +40,3 @@ This project combines minimal UI design with advanced interactivity — perfect 
 🌓 **Light and Dark modes** with persistent theme memory  
 📱 **Responsive layout** that adapts beautifully across all devices  
 
----
-
-## 🚀 How to Run the Project
-
-1. **Download or Clone this Repository**
-   ```bash
-   git clone https://github.com/your-username/glassy-todo-list.git
-   cd glassy-todo-list
